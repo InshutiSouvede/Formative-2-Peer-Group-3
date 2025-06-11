@@ -1,0 +1,15 @@
+*.pypirc
+# Build and distribution
+build/
+dist/
+*.egg-info/
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+# Python virtual environments
+venv/
+env/
+.venv/
+# Pip wheel files
+*.whl
