@@ -121,20 +121,6 @@ After completion, you should have:
 - Reduced dataset with chosen dimensionality
 - Visual comparison of original vs. PCA-transformed data
 
-## 🎓 Assessment Criteria
-
-- **Code Implementation** (40%): Correct completion of missing code sections
-- **Output Display** (20%): All cells show proper execution results
-- **Theoretical Understanding** (20%): Explained variance question answer
-- **Visualization** (20%): Clear, labeled plots comparing before/after PCA
-
-## 💡 Tips for Success
-
-1. **Choose components wisely**: Look at eigenvalues to determine how many components capture most variance
-2. **Understand the math**: Each step builds on the previous - understand why standardization is crucial
-3. **Interpret results**: Consider what the principal components represent in terms of the original economic features
-4. **Visualize effectively**: Use clear labels, titles, and legends in your plots
-
 ## 🔗 Additional Resources
 
 - **Anthropic Documentation**: For prompting and API usage
