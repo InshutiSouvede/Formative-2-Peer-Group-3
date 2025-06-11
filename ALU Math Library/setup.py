@@ -7,7 +7,7 @@ setup(
     name="alumathgroup3",
     version="1.0.0",
     author="Group 3",
-    author_email="i.souvede@alustudent.com",
+    author_email="erneste.ntezirizaza@gmail.com",
     description="A simple Python library for matrix multiplication",
     long_description=long_description,
     long_description_content_type="text/markdown",
