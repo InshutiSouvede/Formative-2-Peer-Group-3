@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="alumath",
+    name="alumathgroup3",
     version="1.0.0",
     author="Group 3",
     author_email="i.souvede@alustudent.com",
