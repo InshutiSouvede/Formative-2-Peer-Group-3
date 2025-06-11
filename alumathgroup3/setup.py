@@ -11,7 +11,7 @@ setup(
     description="A simple Python library for matrix multiplication",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/InshutiSouvede/Template_PCA_Formative_1_group3",  # Your GitHub repo
+    url="https://github.com/InshutiSouvede/Formative-2-Peer-Group-3",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -30,7 +30,7 @@ setup(
     python_requires=">=3.6",
     keywords="matrix multiplication linear algebra math",
     project_urls={
-        "Bug Reports": "https://github.com/InshutiSouvede/Template_PCA_Formative_1_group3/issues",
-        "Source": "https://github.com/InshutiSouvede/Template_PCA_Formative_1_group3",
+        "Bug Reports": "https://github.com/InshutiSouvede/Formative-2-Peer-Group-3/issues",
+        "Source": "https://github.com/InshutiSouvede/Formative-2-Peer-Group-3",
     },
 )
