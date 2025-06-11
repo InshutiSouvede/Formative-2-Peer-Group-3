@@ -1,16 +1,16 @@
-# AlumMath
+# ALUMatrixMath
 
 A simple Python library for matrix multiplication with proper validation.
 
 ## Installation
 
 ```bash
-pip install alumath
+pip install alumathgroup3
 ```
 ## QuickStart
 
 ```
-from alumath import Matrix, matrix_multiply
+from alumathgroup3 import Matrix, matrix_multiply
 
 # Create matrices
 A = Matrix([[1, 2, 3], [4, 5, 6]])      # 2×3 matrix  
