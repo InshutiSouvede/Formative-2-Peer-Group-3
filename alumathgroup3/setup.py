@@ -30,7 +30,7 @@ setup(
     python_requires=">=3.6",
     keywords="matrix multiplication linear algebra math",
     project_urls={
-        "Bug Reports": "https://github.com/InshutiSouvede/alumathgroup3/issues",
-        "Source": "https://github.com/InshutiSouvede/alumathgroup3",
+        "Bug Reports": "https://github.com/InshutiSouvede/Template_PCA_Formative_1_group3/issues",
+        "Source": "https://github.com/InshutiSouvede/Template_PCA_Formative_1_group3",
     },
 )
